@@ -17,7 +17,7 @@ A Python-based desktop application that evaluates the strength of a password and
 
 The application features a clean, simple GUI made using Tkinter:
 
-![App Screenshot](path/to/Screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Installation
 
